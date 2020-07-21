@@ -1,4 +1,4 @@
-# Artful API by LooselyTyped
+# Artful by LooselyTyped
 
 ## Team:
 - Ivy Gooch
