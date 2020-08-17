@@ -1,0 +1,10 @@
+dist/
+node_modules/
+.env
+public/*.js
+public/*.js.map
+public/bootstrap
+.DS_Store
+package-lock.json
+credentials.json
+npmdevall.sh
